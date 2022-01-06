@@ -1,4 +1,4 @@
-```python
+
 import json
 import yaml
 import os
@@ -90,4 +90,3 @@ else:
 def main():
     print("That was fun")
 
-```
