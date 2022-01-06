@@ -19,4 +19,4 @@ Run the program
 
 
 Notes: 
-- In the conversion functions, if the file doesnt exist we just exit the program with no information
+- In the conversion functions, if the file doesnt exist or we create the file, we just exit the program with no information.
