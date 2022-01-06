@@ -1,3 +1,6 @@
+# Greetings
+I've decided to share some of my coding projects and hope you enjoy.
+
 # JSON and YAML Suite
 I was cruising around the internet looking for some decent python automation scripts for ideas. I ended up at https://www.activestate.com/blog/top-10-tasks-to-automate-with-python/ - This blog seems to be the #1 response and even has a featured snippet on google. 
 
